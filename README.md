@@ -4,7 +4,7 @@ My Academic Project - Smart Glasses
 #throwback_april_2024
 
 ![img alt](https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/2a4d9cf7c6ddfa500b1b19f0197566ddcb278201/pictures/final.jpg)
-<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/2a4d9cf7c6ddfa500b1b19f0197566ddcb278201/pictures/final2.jpg" width="700" height="500">
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/2a4d9cf7c6ddfa500b1b19f0197566ddcb278201/pictures/final2.jpg" width="700" height="300">
 
 The Project idea submission started in month of September 2023, we were a team of 3. So after going back and forth on different areas and ideas, we landed on this. This has a great resemblance to Apple's i-vision but the i-vision is launched in feb 2024. Our plan was to make something like the Iron man's "E.D.I.T.H" Glasses.
 
