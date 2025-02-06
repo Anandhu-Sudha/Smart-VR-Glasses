@@ -34,6 +34,7 @@ python, Open-CV, KDE Connect.
 
 <img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/main/pictures%2Frapsi.jpg" width="400" height="600">
 
+Raspberry pi 5 fresh out of box 
 
 
 Selecting the Platform:
