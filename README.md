@@ -54,3 +54,6 @@ The video out from the pi can't be directly connected to the screen since the TF
 
 The raspberry pi, HDMI-AV converter, Battery pack for the Display and pi, all this packed in the camera bag.
 
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/main/pictures%2Fmates.jpg" width="400" height="600">
+
+Me and my teammates after project presentation 
