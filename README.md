@@ -32,7 +32,7 @@ Software:
 Raspbian OS
 python, Open-CV, KDE Connect.
 
-<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/main/pictures%2Frapsi.jpg" width="400" height="300">
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/main/pictures%2Frapsi.jpg" width="400" height="600">
 
 
 
