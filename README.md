@@ -4,7 +4,7 @@ My Academic Project - Smart Glasses
 #throwback_april_2024
 
 ![img alt](https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/2a4d9cf7c6ddfa500b1b19f0197566ddcb278201/pictures/final.jpg)
-<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/2a4d9cf7c6ddfa500b1b19f0197566ddcb278201/pictures/final2.jpg" width="700" height="300">
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/2a4d9cf7c6ddfa500b1b19f0197566ddcb278201/pictures/final2.jpg" width="600" height="400">
 
 The Project idea submission started in month of September 2023, we were a team of 3. So after going back and forth on different areas and ideas, we landed on this. This has a great resemblance to Apple's i-vision but the i-vision is launched in feb 2024. Our plan was to make something like the Iron man's "E.D.I.T.H" Glasses.
 
@@ -50,6 +50,7 @@ Assembling:
 
 The display unit can be worn because it's an FPV goggle frame. for the rest of the components i had to use my Sony Camera Bag, and connecting wires are routed through an electrical hose. 
 
+
 The video out from the pi can't be directly connected to the screen since the TFT doesn't offer any HDMI input. so we used an HDMI to AV converter.
 
 The raspberry pi, HDMI-AV converter, Battery pack for the Display and pi, all this packed in the camera bag.
@@ -57,3 +58,26 @@ The raspberry pi, HDMI-AV converter, Battery pack for the Display and pi, all th
 <img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/main/pictures%2Fmates.jpg" width="400" height="600">
 
 Me and my teammates after project presentation 
+
+some sample outputs and POVs: 👇
+
+sample of face detection mode given below 👇
+
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/5f68193a49ae72eb174c585b47b1a13ac9d9554a/pictures/fd1.jpg" width="500" height="400">
+
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/5f68193a49ae72eb174c585b47b1a13ac9d9554a/pictures/fd2.jpg" width="500" height="400">
+
+Object detection 👇
+
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/5f68193a49ae72eb174c585b47b1a13ac9d9554a/pictures/ob1.jpg" width="500" height="300">
+
+Smartphone Connectvity 👇
+
+<img src="https://github.com/Anandhu-Sudha/Smart-VR-Glasses/blob/5f68193a49ae72eb174c585b47b1a13ac9d9554a/pictures/smartphone%20connectivity.png" width="600" height="300">
+
+some POVs: 👇
+
+https://github.com/user-attachments/assets/e925ea61-fdff-498c-ae6f-c989a5f3b590
+
+https://github.com/user-attachments/assets/c5a0c789-3aa7-4688-a54b-b1d21f2b0656
+
