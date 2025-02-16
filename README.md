@@ -1,5 +1,5 @@
 # Smart-VR-Glasses
-My Academic Project - Smart Glasses.
+My Academic Project - Smart Glasses
 
 #throwback_april_2024
 
